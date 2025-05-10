@@ -7,6 +7,24 @@ My first repository.
 
 ![image](https://github.com/user-attachments/assets/8c9cc1c1-ab97-4b5e-9841-03f665c11b97)
 
+## Other infos about this movie:
+-Overview
+**Genre**:
+- Action
+- Thriller
+- Neo-noir
+  
+**Starring**:
+-Keanu Reeves as John Wick
+
+**Creator**:
+-Derek Kolstad
+
+**Director** (for most films):
+-Chad Stahelski
+
+**First Film Release**: 
+-John Wick (2014)
 
 
 ## REASONS WHY I LOVE THIS MOVIE:
@@ -15,19 +33,45 @@ My first repository.
 - Intense action and stylish cool
 - I love the seek action, cool assassin world
 
-## Other infos about this movie:
--Overview
-**Genre**:
-- Action
-- Thriller
-- Neo-noir
-**Starring**:
--Keanu Reeves as John Wick
-**Creator**:
--Derek Kolstad
-**Director** (for most films):
--Chad Stahelski
-**First Film Release**: John Wick (2014)
+                                                   **The Action Was Next-Level**
+ The fight scenes weren’t just mindless brawls. They were smooth, creative, and felt like a mix of martial arts and video game gunplay. Every move had style.
+
+ 
+
+                                                  **Keanu Reeves Owned the Role**
+Fans connected with Keanu because he wasn’t just acting—he trained hard, did many of his own stunts, and brought real emotion to the character. You could tell he was all in.
+
+ ![image](https://github.com/user-attachments/assets/3fcbad8a-5983-4599-877d-c1aaa424520e)
+
+
+                                                    **A Simple, Powerful Story** 
+The whole thing starts with a man grieving his wife, only to lose the last thing she gave him—his puppy. That raw, quiet grief made his quest for revenge surprisingly moving.
+
+ 
+![image](https://github.com/user-attachments/assets/615070f8-18db-4c9a-aa22-cb95ef032363)
+
+
+                                                     **A Cool, Mysterious World**
+The assassin universe—secret hotels, gold coins, strict rules—felt fresh and mysterious. It pulled you in and made you want to know more.
+
+
+ ![image](https://github.com/user-attachments/assets/dd7c1945-56d3-41d5-bc94-64be651cfd5b)
+
+
+                                                        **It Looked Amazing** 
+The lighting, colors, and camera work were slick and modern. Everything had a sharp, almost graphic novel vibe.
+
+ 
+
+                                                       **It Didn’t Waste Time** 
+Instead of tons of talking, it let the action speak for itself. The pacing was tight, and the storytelling was clean and focused.
+
+ 
+
+                                                        **It Had Personality** 
+The movie didn’t try to be overly serious or preachy. It just delivered a stylish, emotional ride with a character you couldn’t help but root for.
+
+
 
 
 
