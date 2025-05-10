@@ -8,7 +8,8 @@ My first repository.
 ![image](https://github.com/user-attachments/assets/8c9cc1c1-ab97-4b5e-9841-03f665c11b97)
 
 ## Other infos about this movie:
--Overview
+Overview
+
 **Genre**:
 - Action
 - Thriller
