@@ -17,16 +17,16 @@ My first repository.
 - Neo-noir
   
 **Starring**:
--Keanu Reeves as John Wick
+Keanu Reeves as John Wick
 
 **Creator**:
--Derek Kolstad
+Derek Kolstad
 
 **Director** (for most films):
--Chad Stahelski
+Chad Stahelski
 
 **First Film Release**: 
--John Wick (2014)
+John Wick (2014)
 
 
 ## REASONS WHY I LOVE THIS MOVIE:
