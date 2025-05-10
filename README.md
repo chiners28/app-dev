@@ -1,7 +1,7 @@
 # app-dev
 My first repository.
 
-## My favorite movies:
+## My favorite movie:
 
 1. **John Wick**
 
